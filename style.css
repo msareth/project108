@@ -1,0 +1,37 @@
+body {
+    background-color: cornflowerblue;
+    font-family: 'Merriweather', serif;
+}
+
+.header {
+    background-color: darkgrey;
+    color: ghostwhite;
+}
+
+.header p{
+    letter-spacing: 2px;
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.main-div button{
+    background-color: lavender;
+    color: slategrey;
+    font-family: 'Poppins', sans-serif;
+font-weight: bold;
+width: 200px;
+margin-top: 30px;
+height: 70px;
+font-size: 25px;
+}
+
+#copyright {
+    position: fixed;
+    bottom: 0;
+    line-height: 4;
+    background-color: azure;
+    box-shadow: 5px 5px 5px lightblue;
+    width: 100%;
+    text-align: center;
+}
